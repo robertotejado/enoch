@@ -74,7 +74,7 @@ Puedes iniciar la herramienta de dos maneras:
 Al abrir Enoch por primera vez, ve al panel de **Configuración** ⚙️:
 
 1.  Verifica la **URL de Ollama** (por defecto `http://127.0.0.1:11434`).
-2.  Introduce el **nombre del modelo** que has descargado (ej: `qwen2.5:7b`).
+2.  Introduce el **nombre del modelo** que has descargado (ej: `qwen2.5:7b`, `qwen2.5:3b`).
 3.  Usa el botón **"Verificar conexiones"** para confirmar que los Vigilantes están listos.
 
 -----
